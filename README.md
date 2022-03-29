@@ -1,4 +1,4 @@
-<h3>Hey There, I'm Leonardo a CS student interested in Cloud Computing, Data Science and Cybersecurity</h3>
+<h3>Hey There, I'm Leonardo a  CS student interested in Cloud Computing, Data Science and Cybersecurity</h3>
 
 <div>
   <a href="https://github.com/leo10ui">
