@@ -1,4 +1,4 @@
-### Hey There, I'm Leonardo a CS student interested in Cloud Computing, Data Science and Cybersecurity  
+### Hey There, I'm Leonardo a CS student interested in Cloud Computing, Networking Data Science and Cybersecurity  
 ### Owner of 2a0e:b107:ba0::/44 RIPE-NCC IPv6 address space. Trying to get an ASN  
 ### My Emails:  
 **Main Email:** <leonardo@leonardo.tec.br>  
