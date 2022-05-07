@@ -1,8 +1,7 @@
 ###Hey There, I'm Leonardo a CS student interested in Cloud Computing, Data Science and Cybersecurity
 ###Owner of 2a0e:b107:ba0::/44 RIPE-NCC IPv6 address space. Trying to get an ASN
 ###My Emails:
-  [leonardo@leonardo.tec.br](mailto:leonardo@leonardo.tec.br)
-  (leonardo@leonardo.tec.br)
+  <leonardo@leonardo.tec.br>
   <leo10ui@fedoraproject.org>
   <leonardo.rodrigues22@fatec.sp.gov.br>
   <leonardo.rodrigues83@aluno.unip.br>
