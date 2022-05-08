@@ -13,9 +13,11 @@
 **My Email at Fedora Project:** <leo10ui@fedoraproject.org>  
 **My email at FATEC:** <leonardo.rodrigues22@fatec.sp.gov.br>  
 **My email at UNIP:** <leonardo.rodrigues83@aluno.unip.br>
-
+	
+##
+	
 <div style="display: inline_block">
-  <a href="https://www.credly.com/badges/5f9e0324-5b19-472e-971f-9fe0f9574adb/public_url"><img align="center" alt="MTA-Badge" height="100em" width="100em" src="badges/mta-security-fundamentals-certified-2019.png"></a>
+  <a href="https://www.credly.com/badges/5f9e0324-5b19-472e-971f-9fe0f9574adb/public_url"><img align="center" alt="MTA-Badge" height="150" width="150" src="badges/mta-security-fundamentals-certified-2019.png"></a>
   <a href="https://www.credly.com/badges/50b96b40-1485-4933-b2a2-c01cb6f83c7b/public_url"><img align="center" alt="Google IT - Badge" height="150" width="150" src="badges/google-it.png"></a>
   <a href="https://www.credly.com/badges/b167223e-7d2b-4a28-ae5d-a7588f485fd0/public_url"><img align="center" alt="IBM Data Science - Badge" height="150" width="150" src="badges/ibm-ds.png"></a>
   <a href="https://www.credly.com/badges/0d9a31af-2264-4d63-91ac-b2048e1c7869/public_url"><img align="center" alt="Mainframe-Badge" height="150" width="150" src="badges/mainframe.png"></a>
