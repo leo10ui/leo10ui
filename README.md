@@ -6,7 +6,31 @@
 **My email at FATEC:** <leonardo.rodrigues22@fatec.sp.gov.br>  
 **My email at UNIP:** <leonardo.rodrigues83@aluno.unip.br>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5f9e0324-5b19-472e-971f-9fe0f9574adb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div class="badges">
+	<!-- Badge 1 - MTA -->
+	<div style="float:left;margin-right:5px;">
+		<a href="https://www.credly.com/badges/5f9e0324-5b19-472e-971f-9fe0f9574adb/public_url">
+			<img src="images/mta-badge.png" height="144" width="144" />
+		</a>
+	</div>
+	<!-- Badge 1 - MTA -->
+
+	<!-- Badge 2 - Google -->
+	<div style="float:left;margin-right:5px;">
+		<a href="https://www.credly.com/badges/50b96b40-1485-4933-b2a2-c01cb6f83c7b/public_url">
+			<img class="middle-img" src="images/google-badge.png" height="144" width="144" />
+		</a>
+	</div>
+	<!-- Badge 2 - Google -->
+
+	<!-- Badge 3 - IBM -->
+	<div style="float:left;margin-right:5px;">
+		<a href="https://www.credly.com/badges/b167223e-7d2b-4a28-ae5d-a7588f485fd0/public_url">
+			<img src="images/ds-badge.png" height="144" width="144" />
+		</a>
+	</div>
+	<!-- Badge 3 - IBM -->
+</div>
 
 <div>
   <a href="https://github.com/leo10ui">
