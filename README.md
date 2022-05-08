@@ -23,5 +23,7 @@
   <a href="https://www.credly.com/badges/50b96b40-1485-4933-b2a2-c01cb6f83c7b/public_url"><img align="center" alt="Google IT - Badge" height="130" width="130" src="badges/google-it.png"></a>
   <a href="https://www.credly.com/badges/b167223e-7d2b-4a28-ae5d-a7588f485fd0/public_url"><img align="center" alt="IBM Data Science - Badge" height="130" width="130" src="badges/ibm-ds.png"></a>
   <a href="https://www.credly.com/badges/0d9a31af-2264-4d63-91ac-b2048e1c7869/public_url"><img align="center" alt="Mainframe-Badge" height="130" width="130" src="badges/mainframe.png"></a>
-</div> 
+</div>
+
+##
 
