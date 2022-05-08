@@ -4,7 +4,9 @@
 **Main Email:** <leonardo@leonardo.tec.br>  
 **My Email at Fedora Project:** <leo10ui@fedoraproject.org>  
 **My email at FATEC:** <leonardo.rodrigues22@fatec.sp.gov.br>  
-**My email at UNIP:** <leonardo.rodrigues83@aluno.unip.br>  
+**My email at UNIP:** <leonardo.rodrigues83@aluno.unip.br>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5f9e0324-5b19-472e-971f-9fe0f9574adb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div>
   <a href="https://github.com/leo10ui">
