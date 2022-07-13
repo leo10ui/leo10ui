@@ -9,7 +9,7 @@
 ##
 	  
 ### Hey There, I'm Leonardo a CS student interested in Cloud Computing, Networking, Data Science and Cybersecurity  
-### Owner of 2a0e:b107:ba0::/44 RIPE-NCC IPv6 address space. Trying to get an ASN  
+### Owner and operator of the AS204374, announcing the prefixes 2a06:1287:1300::/40, 2a0e:b107:ba0::/44, 2a06:a005:1090::/44 and 2a06:a005:85f::/48 as an Anycast.
 ### My Emails:  
 **Main Email:** <leonardo@leonardo.tec.br>  
 **My Email at Fedora Project:** <leo10ui@fedoraproject.org>  
